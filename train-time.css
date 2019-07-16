@@ -1,0 +1,13 @@
+.jumbotron {
+    background: url("https://media-public.canva.com/MADFI44QU88/1/screen_2x.jpg");
+    background-repeat: no-repeat;
+    height: 320px;  
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;}
+.card-header {
+    background-color: cadetblue;
+    color: white;
+}
+body {
+    background-color: rgb(27, 93, 236)}
